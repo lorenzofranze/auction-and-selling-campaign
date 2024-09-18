@@ -6,20 +6,20 @@ The goal of the project is to design online learning algorithms to handle a mark
 * **An advertising campaign**
 * **A pricing problem**
 
-The agents have to find the right bids and prices in a fixed time horizon, minimizing the regret w.r.t a clairvoyant agent, trade-off between learning and leveraging is taken into consideration.
+The agents must determine the optimal bids and prices within a fixed time horizon, minimizing regret compared to a clairvoyant agent. The trade-off between learning and leveraging is also considered.
 
 
-Details of the project can be found at [requirments.pdf](https://github.com/lorenzofranze/auction-and-selling-campaign/blob/main/requirments.pdf)
+Details of the project can be found at [requirements.pdf](https://github.com/lorenzofranze/auction-and-selling-campaign/blob/main/requirments.pdf)
 
 The project is divided into 4 (+1 bonus) requirments, here a rough list:
 * Requirement 1: **stochastic environment**
 * Requirement 2: **adversarial environment**
 * Requirement 3: two extensions for **pricing (noise + non-stationary)**
 * Requirement 4: Compare different **bidding algorithms**
-* Requirment Bonus: handle multiple products using **two-dimensional Gaussian processes**
+* Requirement Bonus: handle multiple products using **two-dimensional Gaussian processes**
 
 
-Have a look at [results.pdf](https://github.com/lorenzofranze/auction-and-selling-campaign/blob/main/results.pdf) to see final results
+See [results.pdf](https://github.com/lorenzofranze/auction-and-selling-campaign/blob/main/results.pdf) fot the final results
 
 To run all the files use [run.ipynb](https://github.com/lorenzofranze/auction-and-selling-campaign/blob/main/src/run.ipynb) where it's possibile to set some parameters before the execution.
 
