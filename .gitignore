@@ -1,0 +1,7 @@
+full_script.py
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+.venv/*
+*.vscode
+
