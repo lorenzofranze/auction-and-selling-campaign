@@ -3,8 +3,8 @@
 *This project was developed between July and September 2024, at Politecnico University of Milan.* 
 
 The goal of the project is to design online learning algorithms to handle a marketing campaign to sell products. This includes:
-* An advertising campaign
-* A pricing problem
+* **An advertising campaign**
+* **A pricing problem**
 
 The agents have to find the right bids and prices in a fixed time horizon, minimizing the regret w.r.t a clairvoyant agent, trade-off between learning and leveraging is taken into consideration.
 
