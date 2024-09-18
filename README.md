@@ -6,6 +6,8 @@ The goal of the project is to design online learning algorithms to handle a mark
 * An advertising campaign
 * A pricing problem
 
+The agents have to find the right bids and prices in a fixed time horizon, minimizing the regret w.r.t a clairvoyant agent, trade-off between learning and leveraging is taken into consideration.
+
 
 Details of the project can be found at [requirments.pdf](https://github.com/lorenzofranze/auction-and-selling-campaign/blob/main/requirments.pdf)
 
