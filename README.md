@@ -1,6 +1,6 @@
 # Online learning applications: Reinforcement Learning 
 
-*This project was developed between July and September 2024, at Politecnico University of Milan.* 
+*This project was developed between July and September 2024, at Politecnico of Milan.* 
 
 The goal of the project is to design online learning algorithms to handle a marketing campaign to sell products. This includes:
 * **An advertising campaign**
