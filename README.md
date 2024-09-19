@@ -21,7 +21,7 @@ The project is divided into 4 (+1 bonus) requirments, here a rough list:
 
 See [results.pdf](https://github.com/lorenzofranze/auction-and-selling-campaign/blob/main/results.pdf) fot the final results
 
-To run all the files use [run.ipynb](https://github.com/lorenzofranze/auction-and-selling-campaign/blob/main/src/run.ipynb) where it's possibile to set some parameters before the execution.
+To run all the files and see more details use [run.ipynb](https://github.com/lorenzofranze/auction-and-selling-campaign/blob/main/src/run.ipynb) where it's possibile to set some parameters before the execution.
 
 
   
