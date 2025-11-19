@@ -2,7 +2,7 @@
 
 *This project was developed between July and September 2024, at Politecnico of Milan.* 
 
-<img src="https://raw.githubusercontent.com/lorenzofranze/auction-and-selling-campaign/main/images/ola.PNG" width="500">
+<img src="https://raw.githubusercontent.com/lorenzofranze/auction-and-selling-campaign/main/images/ola.PNG" width="600">
 
 The goal of the project is to design online learning algorithms to handle a marketing campaign to sell products. This includes:
 * **An advertising campaign**
